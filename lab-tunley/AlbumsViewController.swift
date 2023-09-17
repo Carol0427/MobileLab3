@@ -71,7 +71,7 @@ class AlbumsViewController: UIViewController, UICollectionViewDataSource {
             }
             
         }
-
+//commit
         // Get a reference to the collection view's layout
         // We want to dynamically size the cells for the available space and desired number of columns.
         // NOTE: This collection view scrolls vertically, but collection views can alternatively scroll horizontally.
